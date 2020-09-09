@@ -1,6 +1,6 @@
-# newolf_trial
+# flutter_plugin_example
 
-Trial App For Newolf
+Demonstrates how to use the flutter_plugin plugin.
 
 ## Getting Started
 
