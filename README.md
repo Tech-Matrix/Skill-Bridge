@@ -1,6 +1,5 @@
-# newolf_trial
-
-Trial App For Newolf
+# Skill Bridge
+medium blog: https://medium.com/newolf-society/skillbridge-uniting-india-on-different-fronts-c135ea4304f1
 
 ## Getting Started
 
